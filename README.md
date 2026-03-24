@@ -15,12 +15,6 @@ Requirements
 - The system should provide the user with the new updates of needed blood donations according to the user's registered blood type, and the location. The user can then register to donate blood and specify the suitable date.
 
 
-
-https://github.com/hossamemamo/Blood-donation-Mobile-App/assets/78453559/1599e797-62bb-4467-8b27-3a6ddfa3ad4a
-
-
-
-
 - The system shows the user’s account information in personal account information.
 
 2-Non-Functional Requirements:
@@ -31,13 +25,6 @@ https://github.com/hossamemamo/Blood-donation-Mobile-App/assets/78453559/1599e79
 
 - The system should authenticate users according to their registered data in the database.
 - The mobile application should only operate within Alexandria governorate as a beginning.
-
-## Demonstration
-
-
-
-
-https://github.com/hossamemamo/Blood-donation-Mobile-App/assets/78453559/17c39022-7481-489e-a937-f0c5143d8be4
 
 
 
